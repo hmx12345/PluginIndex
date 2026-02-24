@@ -10,4 +10,4 @@ repoOwner: Jimmyxiao2009                      # GitHub 仓库所有者
 repoName: RemoteShutdownClassisland            # GitHub 仓库名
 assetsRoot: main/RemoteShutdownClassisland    # <默认分支>/<项目相对仓库的路径>
 readme: README.md
-icon: icon.png
+icon: icon.ico
